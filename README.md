@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hitesh</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
+- 🌱 I’m currently learning **AWS Serverless**
+
 - 👨‍💻 All of my projects are available at [https://github.com/techitesh](https://github.com/techitesh)
 
 - 💬 Ask me about **React, ExpressJS, Typescript, Flutter, Redux**
